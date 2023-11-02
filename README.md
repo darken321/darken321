@@ -18,24 +18,22 @@
 </div>
 
 <h1  align="center">
-  Hi, i'm Vasili  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Привет, я Василий Бондаренко <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :man_technologist: About Me :
+### :man_technologist: Чем я занимаюсь:
 
-I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+Я разработчик на Java <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Беларуси.
 
-- :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
+- :telescope: Главным образом создаю бэкенд приложений и иногда их визуальную часть, фронтенд
 
-- :seedling: Exploring Technical Content Writing.
+- :zap: В свободное время я решаю задачи на Leetcode, читаю и пишу статьи по технике, снимаю обучающие видеоролики на YouTube.
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles, make educational YouTube videos.
-
-- :mailbox:How to reach me:  [![Telegram Badge](https://img.shields.io/badge/Vasili-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VasiliBondarenko)
+- :mailbox:Контакты:  [![Telegram Badge](https://img.shields.io/badge/Vasili-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VasiliBondarenko)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Мой стек:
 
 ![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-316192?style=for-the-badge&logo=spring&logoColor=white)
@@ -46,7 +44,6 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ![Git](https://img.shields.io/badge/GIT-red?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%2338B2AC.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-
 
 ---
 
