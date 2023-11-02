@@ -47,6 +47,12 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%2338B2AC.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=darken321&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darken321&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **darken321/darken321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
