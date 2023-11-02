@@ -21,7 +21,7 @@
   Hi, i'm Vasili  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :man_technologist: About Me : ---
+### :man_technologist: About Me :
 
 I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 
@@ -29,9 +29,9 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- :zap: In my free time, I solve problems on Leetcode and read tech articles, make educational YouTube videos.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-your-username-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url)
+- :mailbox:How to reach me:  [![Telegram Badge](https://img.shields.io/badge/Vasili-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VasiliBondarenko)
 
 <!--
 **darken321/darken321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
