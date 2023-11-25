@@ -68,7 +68,8 @@
 - времена прибытия выбранного транспорта на выбранную остановку за весь день (расписание на сутки);
 есть авторизация по ролям: гость, пользователь и админ.
 
-Использовались Java, Spring Boot, Spring Security, Hibernate, Lombok Maven, Docker, Postman База данных PostgreSQL
+Использовались Java, Spring Boot, Spring Security, Hibernate, Lombok Maven, Docker, Postman, PostgreSQL, Git
+
 ---
 ## <a href="https://github.com/darken321/basejava"> Приложение для хранения резюме </a>
 CRUD веб приложение для хранения, создания, изменения картотеки резюме с сложной древовидной структурой. 
@@ -78,8 +79,11 @@ CRUD веб приложение для хранения, создания, из
 - в файловой системе (File API и Java 7 NIO File API);
 - в формате JSON (Google Gson), в формате XML (JAXB);
 - в реляционной базе данных PostgreSQL;
-деплой приложения на сервер.
-✨ Посмотреть в работе на сервере: http://darken321.fvds.ru:8080/resumes_Web/resume
+
+Использовались - Java core (java 17), Java EE (сервлеты, JSP, JSTL, и т. д.), JPA, JDBC, PostgreSQL, Maven, Tomcat, Docker, HTTP, Git.
+
+✨ Приложение задеплоено и работает на сервере: http://darken321.fvds.ru:8080/resumes_Web/resume
+
 ---
 ## <a href="https://github.com/darken321/LeetCode"> Алгоритмические задачки с литкода </a>
 Чтоб разнообразить умственную деятельность решаю задачки с литкода
