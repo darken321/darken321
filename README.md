@@ -68,7 +68,7 @@
 - времена прибытия выбранного транспорта на выбранную остановку за весь день (расписание на сутки);
 есть авторизация по ролям: гость, пользователь и админ.
 
-Использовались Java, Spring Boot, Spring Security, Hibernate, Lombok Maven, Docker, Postman, PostgreSQL, Git
+Использовались Java, Spring Boot, Spring Security, Spring Framework: Boot, Security, MVC, Data JPA, JDBC, Core, REST, Lombok, Hibernate, Junit, AssertJ, Docker, Postman API, Swagger, PostgreSQL, Git.
 
 ---
 ## <a href="https://github.com/darken321/basejava"> Приложение для хранения резюме </a>
