@@ -21,7 +21,7 @@
   Привет, я Василий Бондаренко <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :man_technologist: Чем я занимаюсь:
+  ### 👨‍💻 Чем я занимаюсь:
 
 Я разработчик на Java <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
@@ -29,12 +29,12 @@
 
 - :zap: В свободное время я решаю задачи на Leetcode, читаю и пишу статьи по технике, снимаю обучающие видеоролики на YouTube.
 
-- :mailbox:Контакты:
-  
+- 📭 Контакты:
+    
 [![Telegram Badge](https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VasiliBondarenko) [![Linkedin Badge](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasili-bandarenka)
 ---
 
-### :hammer_and_wrench: Мой стек:
+### 🛠️ Мой стек:
 
 ![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-316192?style=for-the-badge&logo=spring&logoColor=white)
@@ -48,12 +48,12 @@
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=darken321&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darken321&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### :floppy_disk:  Мои проекты:
+### 💾  Мои проекты:
 
 ## <a href="https://github.com/darken321/transport_spring_boot"> Расписание движения транспорта </a>
 
